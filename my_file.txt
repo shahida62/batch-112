@@ -1,0 +1,5 @@
+A basic calculator program in Python can be created without explicitly using a for loop for the core arithmetic operations.
+ Instead, if/elif/else statements are typically used to determine the operation based on user input.
+ However, a for loop can be used if you want to perform a series of calculations on a set of numbers or if you want to implement a calculator that processes a list of operationsA basic calculator program in Python can be created without explicitly using a for loop for the core arithmetic operations.
+ Instead, if/elif/else statements are typically used to determine the operation based on user input.
+ However, a for loop can be used if you want to perform a series of calculations on a set of numbers or if you want to implement a calculator that processes a list of operations

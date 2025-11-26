@@ -1,0 +1,7 @@
+OrderID,Date,Product,Category,price,Quantity,Total,Customer_Age,Payment_Method
+1001.0,2024-01-02,Mouse,Electronics,500,2,100,23,Cash
+1002.0,2024-01-03,,Electronics,1000,5,50,31,Card
+1003.0,,Keyboard,Electronics,50000,3,600,40,Online
+1004.0,2024-01-05,Loptop,Electronics,700,1,55000,50,Cash
+1005.0,2024-01-06,Headphone,Electronics,15000,6,400,55,Card
+,2024-01-07,Printer,Electronics,3000,1,700,60,Online

@@ -1,0 +1,10 @@
+PassengerID,Survived,Pclass,Name,Gender,Age,SibSp,parch,Fare,Embarked
+1,0,3,John Smith,Male,22,1,0,7.25,S
+2,1,1,Anna Brown,Female,38,1,0,71.28,C
+3,2,3,Peter Wilson,Male,26,1,0,7.92,S
+4,1,2,Mary Clark,Female,35,0,0,53.1,S
+5,3,1,Edward Thomas,Male,28,1,0,11.1,S
+6,1,4,Rebaka willam,Female,40,0,0,51.23,C
+7,4,2,Josef Brown,Male,54,1,0,65.32,C
+8,1,3,Merina Mask,Female,33,1,0,45.21,S
+9,5,4,Bath Thomas,Male,50,0,0,30.11,C
